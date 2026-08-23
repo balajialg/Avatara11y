@@ -24,18 +24,8 @@ Avatara11y is a Zoom-like video meeting tool where all participants appear as re
 - **Agora RTM SDK** (2.2.4) for presence + avatar state synchronization
 - **Agora RTC SDK** (4.23.0) for optional voice/mic
 
-### Getting started
-
-1. Ensure Node.js is on your PATH (`C:\Users\balaji\node\node-v22.14.0-win-x64` + `$env:Path`)
-2. Run `npm run dev` — dev server starts on `http://localhost:5173/`
-3. Open the URL, select a look/name/room, and join
-4. Toggle "Camera: ON" to enable face mapping (browser prompts camera permission — feed stays local)
-5. Toggle "Mic: ON" to enable optional voice
-
 ### License
 
 The Ready Player Me avatar (`public/avatar.glb`) is a exported GLB that remains valid after RPM's discontinuation. Confirm license before shipping; an alternate CC0 avatar is available but lacks morph targets.
 
 ---
-
-*Written for the next opencode session to resume exactly where the last one stopped.*
