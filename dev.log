@@ -1,0 +1,33 @@
+
+> avatar-meet@0.1.0 dev
+> vite --host
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m1033[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.240:[1m5173[22m/[39m
+[2m11:05:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
+[2m11:06:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
+[2m11:06:17 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
+[2m11:06:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
+[2m11:07:16 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:07:41 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:07:42 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@mediapipe/tasks-vision[32m[39m
+[2m11:07:42 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m11:08:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:08:26 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:08:35 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:08:41 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:08:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:23:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarCanvas.tsx[22m
+[2m11:34:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:34:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
+[2m11:34:21 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mthree/examples/jsm/loaders/GLTFLoader.js, three[32m[39m
+[2m11:34:21 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m11:34:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/MeetingRoom.tsx[22m
+[2m11:34:36 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarCanvas.tsx[22m
+[2m11:34:49 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MeetingRoom.tsx[22m
+[2m11:34:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/IdentityPicker.tsx[22m
+[2m11:35:10 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:35:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/avatar/AvatarModel.tsx[22m
